@@ -1,3 +1,3 @@
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=suwonkun)](https://github.com/suwonkun/github-profile-trophy)
+[![trophy](https://github.com/ryo-ma/github-profile-trophy)](https://github.com/suwonkun/github-profile-trophy)
