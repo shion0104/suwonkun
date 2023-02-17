@@ -1,2 +1,1 @@
-
-![](https://raw.github.com/wiki/takuyama29/WorldTracking/images/Untitled.gif)
+![](https://media.giphy.com/media/t0bSJQ3Qoc9ag/giphy.gif)
