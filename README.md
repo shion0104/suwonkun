@@ -1,3 +1,1 @@
-effort!
-
-![](https://media.giphy.com/media/t0bSJQ3Qoc9ag/giphy.gif)
+![](https://media.giphy.com/media/26h0rcFBZRm2epqA8/giphy.gif)
